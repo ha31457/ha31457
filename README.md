@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer passionate abou
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C, Python, JavaScript
+- **Languages**: C, C++, Java, Python, JavaScript
 - **Frameworks & Libraries**: Tkinter, Flask
 - **Tools**: Git, VS Code, GitHub
 
